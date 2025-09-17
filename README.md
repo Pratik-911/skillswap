@@ -47,8 +47,12 @@ npm start
 - `GET /api/matches` - Get skill matches
 - `GET /api/messages/:userId` - Get messages
 - `POST /api/messages` - Send message
+- 
 - `POST /api/appointments` - Create appointment
 - `GET /api/appointments` - Get user appointments
 
 ## Environment Variables
 Create `.env` files in both backend and frontend directories with required configurations.
+
+## License
+Commercial use is prohibited. 
